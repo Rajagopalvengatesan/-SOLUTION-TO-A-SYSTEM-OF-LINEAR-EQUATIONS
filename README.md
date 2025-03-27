@@ -16,24 +16,16 @@ End the program
 ## Program:
 
 #Program to find the solution for the given linear equations.
-
 #Developed by: Raja Gopal V
-
 #RegisterNumber: 212223240134
-
-
-
+```
 import numpy as np
-
 a=np.array([[1,-3],[3,1]])
-
 b=np.array([0,10])
-
 result=np.linalg.solve(a,b)
-
 print(result)
 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/21f3fba5-5a74-46b6-9e40-bbba54a86472)
