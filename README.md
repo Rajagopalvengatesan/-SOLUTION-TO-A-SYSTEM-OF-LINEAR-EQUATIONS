@@ -18,6 +18,7 @@ End the program
 #Program to find the solution for the given linear equations.
 
 #Developed by: Raja Gopal V
+
 #RegisterNumber: 212223240134
 ```
 import numpy as np
